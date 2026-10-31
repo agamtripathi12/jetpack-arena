@@ -1,0 +1,9 @@
+{
+  "name": "jetpack-arena",
+  "version": "2.0.0",
+  "description": "Mini Militia style multiplayer jetpack shooter",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
