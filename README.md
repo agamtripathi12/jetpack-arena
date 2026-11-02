@@ -1,4 +1,4 @@
-# Jetpack Arena v2 - Mini Militia style multiplayer shooter
+# Jetpack Arena v2 - Multiplayer shooter
 
 Server-authoritative real-time 2D shooter for PC and phones. Up to 8 players per room.
 
@@ -15,19 +15,7 @@ Server-authoritative real-time 2D shooter for PC and phones. Up to 8 players per
 - Graphics: parallax city/clouds/canyon backgrounds, glowing platforms, dynamic muzzle and explosion lighting,
   smoke, shockwaves, shell casings, damage numbers, screen shake, vignette.
 
-## Run locally
-1. Install Node.js 18+ (https://nodejs.org)
-2. npm install
-3. npm start
-4. Open http://localhost:3000 in two tabs (or other devices on your Wi-Fi: http://YOUR-PC-IP:3000),
-   enter the same room code, press PLAY.
 
-## Publish (free) - Render.com
-1. Upload this folder to a GitHub repo.
-2. Render -> New -> Web Service -> select the repo.
-3. Build Command: npm install    Start Command: npm start
-4. Deploy and share the https://....onrender.com link. Same room code = same match.
-(Static hosts like GitHub Pages / Netlify will NOT work - the game needs the Node server.)
 
 ## Controls
 PC: A/D move, W or Space jetpack, mouse aim, click shoot, R reload, 1 / 2 / Q switch weapon.
