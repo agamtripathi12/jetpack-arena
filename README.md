@@ -20,6 +20,3 @@ Server-authoritative real-time 2D shooter for PC and phones. Up to 8 players per
 ## Controls
 PC: A/D move, W or Space jetpack, mouse aim, click shoot, R reload, 1 / 2 / Q switch weapon.
 Phone: left thumb = move (drag up = jetpack), right thumb = aim + auto-fire; buttons for reload / swap weapon.
-
-## Tuning
-Open server.js and edit the CFG block at the top: damage, health regeneration, respawn time, and bot speed / reaction time / aim / fire rate. Restart the server after changing.
